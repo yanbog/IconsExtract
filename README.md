@@ -1,6 +1,6 @@
 # IconsExtract v1.47
 Copyright (c) 2003 - 2010 Nir Sofer
-Web Site: http://www.nirsoft.net
+Web Site: http://www.nirsoft.net/utils/iconsext.html
 
 
 ## Description
@@ -289,3 +289,50 @@ instructions below:
 
 If you have any problem, suggestion, comment, or you found a bug in my
 utility, you can send a message to nirsofer@yahoo.com
+
+
+## Translating languages Package
+================================
+
+IconsExtract is also available in other languages. In order to change the language of IconsExtract, download the appropriate language zip file, extract the 'iconsext_lng.ini', and put it in the same folder that you Installed IconsExtract utility.
+
+
+Language|Translated By|Date|Version|
+-|-|-|-|
+Chinese Simplified|yanbog engko.org|21/05/2020|1.47
+Arabic|Shanaab|	26/01/2015	 
+Brazilian Portuguese|	Siegfried Janke|	26/09/2010|	 
+Bulgarian|	Starichok|	29/01/2015|	 
+Croatian|	RandomGuyfromCroatia|	21/12/2015|	 
+Czech|	Damned|	03/12/2013	 
+Danish|	Aske Uhd Pennerup|	04/06/2005|	 
+Dutch|	Jan Verheijen|	28/09/2010|	1.47|
+Dutch|	Sander Lambregts|	27/09/2008	|1.45
+Finnish|	Olli|	22/10/2007|	 
+French|	Jean-Michel Gillion|	04/05/2008	 
+French|	aMadEUs|	29/09/2010|	1.47
+Galician|	Yako-_-|	21/07/2010	 
+German|	«Latino» auf WinTotal.de|	11/03/2014	|1.47
+Ge Old Style|	Jörg-Peter Wessels|	25/04/2005	 
+Greek|	George Georgiou|	05/05/2009	 
+Hebrew|	Aron Don	|15/12/2011|	1.47
+Hungarian|	Huzella Balázs|	19/07/2005	 
+Italian|	Fabio Milocco|	06/07/2011	 
+Italian|	Devil	|23/02/2014	|1.47
+Japanese|	X-WORKS|	12/07/2005|	 
+Norwegian|	Helge Rødne Skjeveland|	03/12/2005	 
+Polish|	Szymon Ogrodnik	|14/06/2005	 
+Portuguese|	Rui Morais|	10/09/2005	 
+Portuguese| Brazil	Mark Nascimento - Bambuí|	15/05/2005	 
+Romanian|	Jaff (Oprea Nicolae)|	15/02/2013	|1.47
+Russian|	Starichok	|18/04/2006	 
+Chinese Simplified|	renda|	26/02/2008	 
+Slovak|	Michal "KuboF" Matúšov|	04/05/2008	 
+Spanish|	Carlos Gómez Núñez|	02/08/2006	 
+Swedish|	Olle Jansson|	14/02/2012	|1.47
+Chinese Taiwanese|	Republic Of China Taiwan|	17/12/2005	 
+Chinese Traditional |	Sophina Liu|	29/08/2010	 
+Chinese Traditional |	Mido|	05/08/2008	 
+Thai|	ประสิทธิ์ แคภูเขียว|	25/03/2008	 
+Turkish|	Selchuk Dursun|	22/08/2016	 
+Valencian|	vjatv|	29/06/2005	 
