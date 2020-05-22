@@ -1,7 +1,12 @@
 # IconsExtract v1.47
+
 Copyright (c) 2003 - 2010 Nir Sofer
+
 Web Site: http://www.nirsoft.net/utils/iconsext.html
 
+Chinese Simplified/Traditional Translating languages Package: yanbog
+
+Web site: https://www.engko.org
 
 ## Description
 ===========
@@ -11,7 +16,7 @@ and extract the icons and cursors stored in EXE, DLL, OCX, CPL, and in
 other file types. You can save the extracted icons to ICO files (or CUR
 files for cursors), or copy the image of a single icon into the clipboard.
 
-
+![20200522091826.png](20200522091826.png)
 
 ## System Requirements
 ===================
@@ -300,6 +305,7 @@ IconsExtract is also available in other languages. In order to change the langua
 Language|Translated By|Date|Version|
 -|-|-|-|
 Chinese Simplified|yanbog engko.org|21/05/2020|1.47
+Chinese Traditional|yanbog engko.org|21/05/2020|1.47
 Arabic|Shanaab|	26/01/2015	 
 Brazilian Portuguese|	Siegfried Janke|	26/09/2010|	 
 Bulgarian|	Starichok|	29/01/2015|	 
